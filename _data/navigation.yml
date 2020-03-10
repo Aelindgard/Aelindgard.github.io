@@ -1,0 +1,10 @@
+# Site navigation links
+
+- title: Blog
+  url: /blog/
+- title: References
+  url: /references/
+- title: Projects
+  url: /projects/ 
+- title: Search
+  url: /search/
