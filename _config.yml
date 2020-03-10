@@ -1,0 +1,92 @@
+remote_theme: "mmistakes/so-simple-theme@3.2.0" 
+skin: "/assets/css/skins/dark.css" 
+locale: en-US 
+title: "Aelindgard's Journal" 
+description: "A collection of random randomness." 
+baseurl: #/ 
+url: "https://www.aelindgard.com"
+
+logo: "/images/global/aelindgard.jpg" 
+date_format: "%d %m %Y" 
+read_time: true 
+words_per_minute: 200 
+mathjax: # 
+google_fonts: 
+  - name: "Source Sans Pro" 
+    weights: "400,400i,700,700i" 
+  - name: "Lora" 
+    weights: "400,400i,700,700i" 
+google_analytics: # 
+disqus: 
+  shortname: # 
+twitter: 
+  username: aelindgard 
+
+# Liquid 
+liquid: 
+  error_mode: strict 
+
+# Build settings 
+permalink: /:categories/:title/ 
+markdown: kramdown 
+feed: 
+  path: atom.xml 
+
+# Include pages in the _pages folder
+include: ['_pages']
+
+# Pagination - https://jekyllrb.com/docs/pagination/ 
+paginate: 10 
+paginate_path: /page:num/ 
+ 
+# Search 
+search_full_content: false # can have performance implications for large sites 
+
+plugins: 
+  - jekyll-seo-tag 
+  - jekyll-sitemap 
+  - jekyll-feed 
+  - jekyll-paginate 
+ 
+# Front Matter Defaults 
+defaults: 
+  # Posts defaults 
+  - scope: 
+      path: "_posts" 
+      type: posts 
+    values: 
+      layout: post 
+      share: true 
+ 
+# Site Author 
+author: 
+  name: Aelindgard 
+  picture: /images/global/aelindgard.jpg 
+  email: aelindgard@outlook.com 
+  twitter: aelindgard 
+  links: 
+    - title: Twitter 
+      url: https://twitter.com/aelindgard 
+      icon: fab fa-twitter-square 
+    - title: Instagram 
+      url: https://instagram.com/aelindgard 
+      icon: fab fa-instagram 
+    - title: GitHub 
+      url: https://github.com/aelindgard 
+      icon: fab fa-github-square 
+
+# Footer Links 
+
+footer_links: 
+  - title: Twitter 
+    url: https://twitter.com/aelindgard 
+    icon: fab fa-twitter-square 
+  - title: Instagram 
+    url: https://instagram.com/aelindgard 
+    icon: fab fa-instagram 
+  - title: GitHub 
+    url: https://github.com/aelindgard 
+    icon: fab fa-github-square 
+  - title: Feed 
+    url: atom.xml 
+    icon: fas fa-rss-square 
