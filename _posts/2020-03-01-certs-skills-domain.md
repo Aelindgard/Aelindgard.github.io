@@ -1,12 +1,18 @@
---- 
-layout: post 
-title: “Of Certs, Skills and Domains”
-excerpt: “In this post, I give my take about certifications, skillsets, and the different cyber security domains.”
+---
+title: "“Of Certs, Skills and Domains”"
+date: 2020-03-01 00:00:00 Z
+categories:
+- blog
+tags:
+- career
+- certifications
+layout: post
+excerpt: "“In this post, I give my take about certifications, skillsets, and the different
+  cyber security domains.”"
 comments: false
 share: true
-categories: [blog]
-tags: [career, certifications]
 ---
+
 One of the most common questions I get asked and a question I also find myself asking is “What certification do I need” or “What skills do I need” to get into cyber security. In an environment that apperas to change at break neck speed, new techniques and methodologies seems to appear everyday and it would seem daunting to keep up with all these changes.
 
 In this post, I will be addressing the new graduate or someone who is thinking of changing careers. I will be sharing from the point of view of a security enthusiast who did a career change into cyber security. 
