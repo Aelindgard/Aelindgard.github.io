@@ -1,14 +1,11 @@
 ---
+layout: post 
 title: Linux Terminal Quick Reference
-date: 2020-01-05 00:00:00 Z
-categories:
-- reference
-layout: post
-excerpt: A quick reference of commonly used Linux shortcuts and commands that I find
-  useful. This reference will be updated as more shortcuts and commands are added
-  or removed.
+excerpt: "A quick reference of commonly used Linux shortcuts and commands that I find useful. 
+This reference will be updated as more shortcuts and commands are added or removed."
 comments: false
 share: true
+categories: [reference]
 ---
 
 A quick reference of commonly used Linux shortcuts and commands that I find useful. 
