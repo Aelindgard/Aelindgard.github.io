@@ -56,7 +56,14 @@ defaults:
       type: posts 
     values: 
       layout: post 
-      share: true 
+      share: true
+  - scope:
+      path: "_courses"
+      type: courses
+    values:
+      layout: page
+      comments: false
+      share: true
  
 # Site Author 
 author: 
