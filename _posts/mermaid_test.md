@@ -8,3 +8,17 @@ use_mermaid: true
 categories: [blog]
 tags: [testing,graph]
 ---
+
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+
+```mermaid
+graph LR;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
