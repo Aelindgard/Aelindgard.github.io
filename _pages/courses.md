@@ -2,6 +2,6 @@
 title: Courses
 layout: collection
 permalink: /courses/
-collection: project
+collection: courses
 entries_layout: grid
 ---
