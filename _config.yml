@@ -93,3 +93,4 @@ footer_links:
 collections:
   courses:
     output: true
+    permalink: /:collection/:path/
