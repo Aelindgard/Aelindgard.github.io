@@ -91,4 +91,5 @@ footer_links:
     icon: fas fa-rss-square 
 # Collections Settings
 collections:
-  - courses
+  courses:
+    output: true
