@@ -76,7 +76,6 @@ author:
       icon: fab fa-github-square 
 
 # Footer Links 
-
 footer_links: 
   - title: Twitter 
     url: https://twitter.com/aelindgard 
@@ -90,3 +89,6 @@ footer_links:
   - title: Feed 
     url: atom.xml 
     icon: fas fa-rss-square 
+# Collections Settings
+collections:
+  - courses:
