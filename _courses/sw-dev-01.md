@@ -1,5 +1,4 @@
---- 
-layout: page
+---
 title: “Fundamental of Software Development 01”
 excerpt: “A course designed to introduce the fundemantal concepts present in software development.”
 comments: false
